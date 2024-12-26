@@ -12,7 +12,7 @@ html.dark {
   transition: background-color 0.5s ease;
 }
 
-#themeToggle, .themeToggle {
+#themeToggle {
   border: 0;
   background: none;
   margin-left: auto;
@@ -23,9 +23,6 @@ html.dark {
 
 .dark .sun { fill: transparent; }
 .dark .moon { fill: white; }
-
-.lightbulb {fill: black;}
-.dark .lightbulb {fill: white;}
 
 .dark a {
   color: #fff
